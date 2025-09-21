@@ -4,6 +4,12 @@
 🗓️Expected graduation: 2026
 📊Keen about system design, business processes, and data analysis to improve efficiency
 
+## 📌Projects
+
+### 🍷Red Wine Quality Analysis
+*Individual Assignment - Data Science*
+Explored wine quality prediction using pandas and basic python
+
 
 <!--
 **Gracey2203/Gracey2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
