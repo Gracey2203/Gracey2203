@@ -8,20 +8,21 @@
 
 ### 🍷Red Wine Quality Analysis
 *Individual Assignment - Data Science*
-Explored wine quality prediction using pandas and basic python
+Explored wine quality prediction using pandas and basic python.
 
+### 🍽️Enhancing Dave's Deli Efficiency
+*Individual Assignment - Enterprise Information Systems*
+Analysed its existing system and proposed digital solutions to improve operational workflows.
 
-<!--
-**Gracey2203/Gracey2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔁Streamline Business Processes Between Grab and Jaya Grocer
+*Individual Assignment - Business Process Management*
+Mapped and optimized business processes using BPMN tools and process modeling techniques.
 
-Here are some ideas to get you started:
+## 💡Skills
+- Critical Thinking, Report Writing, Collaboration
+- Microsoft Office 365, SQL, Systems Analysis, BPMN, Git
+- C++, Java, HTML, CSS, Javascript
+- Currently learning: Python, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📧Contact
+Email: gcmengli@gmail.com
