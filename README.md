@@ -21,7 +21,7 @@ Mapped and optimized business processes using BPMN tools and process modeling te
 ## 💡Skills
 - Critical Thinking, Report Writing, Collaboration
 - Microsoft Office 365, SQL, Systems Analysis, BPMN, Git
-- C++, Java, HTML, CSS, Javascript
+- C++, Java, HTML, CSS, JavaScript
 - Currently learning: Python, Figma
 
 ## 📧Contact
