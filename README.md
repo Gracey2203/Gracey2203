@@ -1,5 +1,6 @@
-## Hi👋 I'm Grace, welcome to my profile!
-🎓Unddergraduate at UOW KDU, majoring in Enterprise Information Systems
+# Hi👋 I'm Grace, welcome to my profile!
+
+🎓Undergraduate at UOW KDU, majoring in Enterprise Information Systems
 🗓️Expected graduation: 2026
 📊Keen about system design, business processes, and data analysis to improve efficiency
 
